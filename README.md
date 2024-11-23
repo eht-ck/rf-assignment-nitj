@@ -7,7 +7,10 @@ A Node.js application to convert DOCX files to PDF using ConvertAPI.
 https://github.com/user-attachments/assets/9b2d563e-55c7-47ba-a28d-91286b71d62b
 
 
-
+## DOCKER IMAGE URI
+```
+https://hub.docker.com/repository/docker/chandresh786/rf-nitj-doc-to-pdf/general
+```
 
 ## Features
 
